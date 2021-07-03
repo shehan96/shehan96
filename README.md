@@ -14,10 +14,11 @@
 
 ![ANGULAR](https://img.shields.io/badge/-ANGULAR-dd1b16?style=flat&logo=angular&logoColor=ffffff)
 ![REACTJS](https://img.shields.io/badge/-REACTJS-61dbfb?style=flat&logo=React&logoColor=ffffff)
-![REDUX](https://img.shields.io/badge/-REDUX-dd1b16?style=flat&logo=redux&logoColor=ffffff)
-![HTML](https://img.shields.io/badge/-HTML-61dbfb?style=flat&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/-CSS-61dbfb?style=flat&logo=css3&logoColor=ffffff)
-![JS](https://img.shields.io/badge/-JS-61dbfb?style=flat&logo=js&logoColor=ffffff)
+![REDUX](https://img.shields.io/badge/-REDUX-764ABC?style=flat&logo=redux&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=ffffff)
+![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=jss&logoColor=ffffff)
+![MATERIAL DESIAGN](https://img.shields.io/badge/-MATERIAL DESIGN-757575?style=flat&logo=materialdesign&logoColor=ffffff)
 
 ![NODEJS](https://img.shields.io/badge/-NODEJS-81bd01?style=flat&logo=node.js&logoColor=ffffff)
 ![IONIC](https://img.shields.io/badge/-IONIC-498aff?style=flat&logo=ionic&logoColor=ffffff)
