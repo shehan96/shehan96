@@ -1,5 +1,5 @@
 ### Hello Everyone <img src="https://raw.githubusercontent.com/shehan96/shehan96/main/wave.gif" width="25px" />
-<div height="1px" width="100%" bgcolor="#000"></div>
+
 **I'm shehan abeyrathne**
 
 ✨ _TALENTED_ ✨ full stack developer. Mainly using `Angular`, `Node JS` & `React JS`.
