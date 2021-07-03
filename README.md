@@ -13,7 +13,7 @@
 #### Languages & Technologies
 
 ![ANGULAR](https://img.shields.io/badge/-ANGULAR-dd1b16?style=flat&logo=angular&logoColor=ffffff)
-![REACTJS](https://img.shields.io/badge/-REACTJS-dd1b16?style=flat&logo=react.js&logoColor=ffffff)
+![REACTJS](https://img.shields.io/badge/-REACTJS-dd1b16?style=flat&logo=React&logoColor=ffffff)
 ![NODEJS](https://img.shields.io/badge/-NODEJS-dd1b16?style=flat&logo=node.js&logoColor=ffffff)
 ![IONIC](https://img.shields.io/badge/-IONIC4-dd1b16?style=flat&logo=ionic&logoColor=ffffff)
 ![JAVA](https://img.shields.io/badge/-JAVA-dd1b16?style=flat&logo=java&logoColor=ffffff)
