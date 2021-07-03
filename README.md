@@ -14,8 +14,18 @@
 
 ![ANGULAR](https://img.shields.io/badge/-ANGULAR-dd1b16?style=flat&logo=angular&logoColor=ffffff)
 ![REACTJS](https://img.shields.io/badge/-REACTJS-61dbfb?style=flat&logo=React&logoColor=ffffff)
+![REDUX](https://img.shields.io/badge/-REDUX-dd1b16?style=flat&logo=redux&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/-HTML-61dbfb?style=flat&logo=html&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-HTML-61dbfb?style=flat&logo=css&logoColor=ffffff)
+![JS](https://img.shields.io/badge/-HTML-61dbfb?style=flat&logo=js&logoColor=ffffff)
+
 ![NODEJS](https://img.shields.io/badge/-NODEJS-81bd01?style=flat&logo=node.js&logoColor=ffffff)
-![IONIC](https://img.shields.io/badge/-IONIC4-498aff?style=flat&logo=ionic&logoColor=ffffff)
+![IONIC](https://img.shields.io/badge/-IONIC-498aff?style=flat&logo=ionic&logoColor=ffffff)
+![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java&logoColor=ffffff)
+
+
+![NODEJS](https://img.shields.io/badge/-NODEJS-81bd01?style=flat&logo=node.js&logoColor=ffffff)
+![IONIC](https://img.shields.io/badge/-IONIC-498aff?style=flat&logo=ionic&logoColor=ffffff)
 ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java&logoColor=ffffff)
 
 #### Follow me 
