@@ -1,4 +1,4 @@
-## Hello Everyone <img src="https://raw.githubusercontent.com/shehan96/shehan96/main/wave.gif" />
+### Hello Everyone <img src="https://raw.githubusercontent.com/shehan96/shehan96/main/wave.gif" width="25px" />
 
 **I'm shehan abeyrathne**
 
