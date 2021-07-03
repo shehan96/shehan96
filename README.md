@@ -10,6 +10,10 @@
 - 💬 Ask me about anything related to full stack development
 - 📫 How to reach me: shehan.abeyrathne96@gmail.com
 
+#### Languages & Technologies I worked with
+
+![ANGULAR](https://img.shields.io/badge/-ANGULAR-dd1b16?style=flat&logo=angular&logoColor=ffffff)
+
 #### Follow me 
 
 [<img src="https://img.shields.io/badge/-LINKEDIN-0e76a8?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>](https://www.linkedin.com/in/shehan-abeyrathne-58b262152/)
