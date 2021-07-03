@@ -18,7 +18,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=ffffff)
 ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=jss&logoColor=ffffff)
-![MATERIAL DESIAGN](https://img.shields.io/badge/-MATERIAL DESIGN-757575?style=flat&logo=materialdesign&logoColor=ffffff)
+![MATERIALDESIAGN](https://img.shields.io/badge/-MATERIALDESIGN-757575?style=flat&logo=materialdesign&logoColor=ffffff)
 
 ![NODEJS](https://img.shields.io/badge/-NODEJS-81bd01?style=flat&logo=node.js&logoColor=ffffff)
 ![IONIC](https://img.shields.io/badge/-IONIC-498aff?style=flat&logo=ionic&logoColor=ffffff)
