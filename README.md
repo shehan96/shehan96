@@ -34,6 +34,7 @@
 ![DIGITALOCEAN](https://img.shields.io/badge/-DIGITALOCEAN-0080FF?style=flat&logo=digitalocean&logoColor=ffffff)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
 ![MONGODB](https://img.shields.io/badge/-MONGODB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
+![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=flat&logo=github&logoColor=ffffff)
 
 #### Follow me 
 
