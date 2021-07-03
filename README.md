@@ -36,9 +36,7 @@
 ![MONGODB](https://img.shields.io/badge/-MONGODB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=flat&logo=github&logoColor=ffffff)
 
-<hr>
-
-#### Follow me 
+### Follow me 
 
 [<img src="https://img.shields.io/badge/-LINKEDIN-0e76a8?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>](https://www.linkedin.com/in/shehan-abeyrathne-58b262152/)
 [<img src="https://img.shields.io/badge/-TWITTER-00acee?style=for-the-badge&logo=twitter&logoColor=ffffff"/>](https://twitter.com/shehan_96)
