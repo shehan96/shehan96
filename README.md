@@ -21,7 +21,9 @@
 ![MATERIALDESIAGN](https://img.shields.io/badge/-MATERIAL-757575?style=flat&logo=materialdesign&logoColor=ffffff)
 
 ![NODEJS](https://img.shields.io/badge/-NODEJS-81bd01?style=flat&logo=node.js&logoColor=ffffff)
+![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-E434AA?style=flat&logo=graphql&logoColor=ffffff)
 ![SPRINGBOOT](https://img.shields.io/badge/-SPRINGBOOT-6DB33F?style=flat&logo=springboot&logoColor=ffffff)
+![FIREBASE](https://img.shields.io/badge/-FIREBASE-FFCA28?style=flat&logo=firebase&logoColor=ffffff)
 
 ![IONIC](https://img.shields.io/badge/-IONIC-498aff?style=flat&logo=ionic&logoColor=ffffff)
 ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java&logoColor=ffffff)
