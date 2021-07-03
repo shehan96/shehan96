@@ -17,10 +17,12 @@
 ![REDUX](https://img.shields.io/badge/-REDUX-764ABC?style=flat&logo=redux&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=ffffff)
-![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=jss&logoColor=ffffff)
-![MATERIALDESIAGN](https://img.shields.io/badge/-MATERIALDESIGN-757575?style=flat&logo=materialdesign&logoColor=ffffff)
+![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=ffffff)
+![MATERIALDESIAGN](https://img.shields.io/badge/-MATERIAL-757575?style=flat&logo=materialdesign&logoColor=ffffff)
 
 ![NODEJS](https://img.shields.io/badge/-NODEJS-81bd01?style=flat&logo=node.js&logoColor=ffffff)
+![SPRINGBOOT](https://img.shields.io/badge/-SPRINGBOOT-6DB33F?style=flat&logo=springboot&logoColor=ffffff)
+
 ![IONIC](https://img.shields.io/badge/-IONIC-498aff?style=flat&logo=ionic&logoColor=ffffff)
 ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java&logoColor=ffffff)
 
