@@ -36,6 +36,8 @@
 ![MONGODB](https://img.shields.io/badge/-MONGODB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=flat&logo=github&logoColor=ffffff)
 
+<div style="height:1px;width:100%;background-color:#333;"></div>
+
 #### Follow me 
 
 [<img src="https://img.shields.io/badge/-LINKEDIN-0e76a8?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>](https://www.linkedin.com/in/shehan-abeyrathne-58b262152/)
