@@ -10,7 +10,7 @@
 - 💬 Ask me about anything related to full stack development
 - 📫 How to reach me: shehan.abeyrathne96@gmail.com
 
-#### Languages & Technologies
+## Languages & Technologies
 
 ![ANGULAR](https://img.shields.io/badge/-ANGULAR-dd1b16?style=flat&logo=angular&logoColor=ffffff)
 ![REACTJS](https://img.shields.io/badge/-REACTJS-61dbfb?style=flat&logo=React&logoColor=ffffff)
