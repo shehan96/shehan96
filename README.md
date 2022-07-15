@@ -35,6 +35,7 @@
 ![MYSQL](https://img.shields.io/badge/-MYSQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
 ![MONGODB](https://img.shields.io/badge/-MONGODB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=flat&logo=github&logoColor=ffffff)
+![GITLA](https://img.shields.io/badge/-GITLAB-FC6D26?style=flat&logo=gitlab&logoColor=ffffff)
 
 #### Follow Me 
 
