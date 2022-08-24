@@ -2,7 +2,7 @@
 
 **I'm shehan abeyrathne**
 
-✨ _TALENTED_ ✨ full stack developer. Mainly using `Angular`, `Node JS` & `React JS`.
+✨ _TALENTED_ ✨ full stack developer. Mainly using `React JS`, `Node JS` & `Angular`.
 
 - 🔭 I’m currently working on full stack projects
 - 🌱 I’m currently learning new things everyday
@@ -12,8 +12,8 @@
 
 #### Languages & Technologies
 
-![ANGULAR](https://img.shields.io/badge/-ANGULAR-dd1b16?style=flat&logo=angular&logoColor=ffffff)
 ![REACTJS](https://img.shields.io/badge/-REACTJS-61dbfb?style=flat&logo=React&logoColor=ffffff)
+![ANGULAR](https://img.shields.io/badge/-ANGULAR-dd1b16?style=flat&logo=angular&logoColor=ffffff)
 ![REDUX](https://img.shields.io/badge/-REDUX-764ABC?style=flat&logo=redux&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=ffffff)
