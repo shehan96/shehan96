@@ -2,7 +2,7 @@
 
 **I'm shehan abeyrathne**
 
-✨ _TALENTED_ ✨ full stack developer. Mainly using `React JS`, `Node JS` & `Angular`.
+✨ _TALENTED_ ✨ full stack developer. Mainly using `React JS`, `Node JS` & `Java`.
 
 - 🔭 I’m currently working on full stack projects
 - 🌱 I’m currently learning new things everyday
