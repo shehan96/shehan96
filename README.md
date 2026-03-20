@@ -1,6 +1,4 @@
-### Hello Everyone <img src="https://raw.githubusercontent.com/shehan96/shehan96/main/wave.gif" width="20px" />
-
-**I'm shehan abeyrathne**
+### Hello Everyone <img src="https://raw.githubusercontent.com/shehan96/shehan96/main/wave.gif" width="20px" /> I'm Shehan
 
 ✨ _TALENTED_ ✨ full stack developer. Mainly using `React JS`, `Node JS` & `Java`.
 
