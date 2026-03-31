@@ -1,6 +1,6 @@
 ### Hello Everyone <img src="https://raw.githubusercontent.com/shehan96/shehan96/main/wave.gif" width="20px" /> I'm Shehan
 
-✨ _TALENTED_ ✨ full stack developer. Mainly using `React JS`, `Node JS` & `Java`.
+✨ _TALENTED_ ✨ full stack developer. Mainly using `React JS`, `Node JS`, `Typescript` & `Java`.
 
 - 🔭 I’m currently working on full stack projects
 - 🌱 I’m currently learning new things everyday
