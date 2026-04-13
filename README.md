@@ -16,7 +16,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=ffffff)
 ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=ffffff)
 ![NODEJS](https://img.shields.io/badge/-NODEJS-81bd01?style=flat&logo=node.js&logoColor=ffffff)
-![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-E434AA?style=flat&logo=graphql&logoColor=ffffff)
 ![SPRINGBOOT](https://img.shields.io/badge/-SPRINGBOOT-6DB33F?style=flat&logo=springboot&logoColor=ffffff)
 ![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat&logo=java&logoColor=ffffff)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-2496ED?style=flat&logo=docker&logoColor=ffffff)
