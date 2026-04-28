@@ -3,7 +3,7 @@
 ✨ _TALENTED_ ✨ full stack developer. Mainly using `React JS`, `Node JS`, `Typescript` & `Java`.
 
 - 🔭 I’m currently working on full stack projects
-- 🌱 I’m currently learning new things everyday
+- 🌱 I’m currently learning agentic ai workflows
 - 👯 I’m looking to collaborate on any project which can make a different
 - 💬 Ask me about anything related to full stack development
 - 📫 How to reach me: shehan.abeyrathne96@gmail.com
